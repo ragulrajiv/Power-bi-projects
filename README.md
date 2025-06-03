@@ -1,8 +1,12 @@
-Project Title
+Project Title:
+
 LinkedIn Survey Dashboard – Power BI Beginner Project
-Project Objective
+Project Objective:
+
 Analyze survey data from data professionals to uncover trends in job roles, tools, salaries, and experience using Power BI.
-🧰 Tools & Technologies
+
+Tools & Technologies:
+
 *Power BI
 
 *Power Query for data transformation
@@ -12,7 +16,8 @@ Analyze survey data from data professionals to uncover trends in job roles, tool
 *Visuals: bar charts, pie charts, slicers, KPI cards
 
 
- Dashboard Features
+ Dashboard Features:
+ 
 *Country-wise distribution of professionals
 
 *Most used tools and languages
