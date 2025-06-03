@@ -1,6 +1,7 @@
 Project Title:
 
-LinkedIn Survey Dashboard – Power BI Beginner Project
+LinkedIn Survey Dashboard – Power BI  Project
+
 Project Objective:
 
 Analyze survey data from data professionals to uncover trends in job roles, tools, salaries, and experience using Power BI.
